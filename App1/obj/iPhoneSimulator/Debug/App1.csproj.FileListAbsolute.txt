@@ -1,0 +1,9 @@
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\bin\iPhoneSimulator\Debug\App1.exe
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\bin\iPhoneSimulator\Debug\App1.pdb
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\bin\iPhoneSimulator\Debug\Cirrious.FluentLayouts.Touch.dll
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\obj\iPhoneSimulator\Debug\optimized\Default-568h@2x.png
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\obj\iPhoneSimulator\Debug\optimized\
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\obj\iPhoneSimulator\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\obj\iPhoneSimulator\Debug\App1.exe
+C:\Code\Learning\ScrollViewAutoLayoutDemo\App1\obj\iPhoneSimulator\Debug\App1.pdb
